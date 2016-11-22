@@ -1,4 +1,4 @@
-package me.rukes.pizzaspleef;
+package eu.rukes.testplugin;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
